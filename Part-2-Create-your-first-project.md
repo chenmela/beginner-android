@@ -4,6 +4,14 @@ Let's dive in and create our first project in Android Studio!
 
 Again, Google Codelabs provides a great Android Studio setup guide. Head over to [their guide](https://codelabs.developers.google.com/codelabs/build-your-first-android-app/#2) and follow it until the end. Below, we include some helpful clarification about a few sections in the guide.
 
+## Objectives
+In Part 2, you will learn:
+- How to create an Android Studio project
+- How to navigate Android Studio
+- How to create a virtual device (emulator)
+- How to run your app on an emulator
+- How to run your app on a physical device (optional)
+
 ## Create a new project
 You may have to click through some default settings and choose your color scheme before getting to the dialogue used in the guide.
 

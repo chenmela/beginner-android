@@ -2,6 +2,11 @@
 
 Fortunately, Google Codelabs (a great resource for hands-on learning about Google technologies) provides a great Java installation guide. Head over to [their guide](https://codelabs.developers.google.com/codelabs/build-your-first-android-app/#1) and follow it until the end. Below, we include some helpful clarification about a few subsections in the guide.
 
+## Objectives
+In Part 1, you will learn to:
+- Install Java and set JAVA\_HOME environment variable
+- Install Android Studio
+
 ## Install the Java Development Kit
 
 If you get an error message that says something like `java: command not found` when you type `java -version`, this means you do not have Java installed. You should continue with Java installation.

@@ -8,7 +8,7 @@ Installation of Java and Android Studio can take a bit of time, so set aside 20-
 
 # Prerequisites
 
-This tutorial assumes some computer knowledge, including navigating the file system, downloading and opening files, and using the terminal (for Linux and Mac users only). You should also be familiar with programming in Java. Fundamental knowledge in another language (like C or Python) should also be sufficient. It may also be helpful to have basic understanding of a markup language like XML or HTML, but this is not strictly necessary.
+This tutorial assumes some computer knowledge, including navigating the file system, downloading and opening files, and using the terminal (for Linux and Mac users only). You should also be familiar with programming in Java (especially basic inheritance). Equivalent knowledge in another language (like C or Python) should also be sufficient. It may also be helpful to have basic understanding of a markup language like XML or HTML, but this is not strictly necessary.
 
 If you're missing one or more of these prerequisites, chat with an organizer for further guidance.
 
